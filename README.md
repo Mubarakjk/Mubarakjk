@@ -1,6 +1,6 @@
 # Hi, I'm Mubarak 👋
 
-I'm a software developer studying a T Level in Digital Production, Design and Development. I build full-stack web apps, mobile apps and developer tools, and I like projects that real people end up using.
+I'm a software developer with a T Level in Digital Production, Design and Development. I build full-stack web apps, mobile apps and developer tools, and I like projects that real people end up using.
 
 **Open to junior software developer roles and apprenticeships.**
 
