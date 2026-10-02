@@ -24,6 +24,7 @@ Finds the fastest route between any two tube stations from the terminal. Dijkstr
 
 ## More work
 
+- [EddyAI](https://github.com/Mubarakjk/eddy-ai-case-study): an AI-powered student support app I worked on at Pilot Generative AI. A Flask app that generates structured support plans using the PCAR framework (Problem, Cause, Action, Result), with secure login and an admin dashboard
 - [Ramadan London 2026](https://github.com/Mubarakjk/ramadan-london-2026): prayer times for 17 London mosques, with Suhoor and Iftar countdowns. [Live site](https://radiant-frangollo-4194fd.netlify.app)
 - [JIMM Solutions](https://github.com/Mubarakjk/jimm-solutions-website) and [Mymz World Child Care](https://github.com/Mubarakjk/mymz-world-childcare-website): websites I helped build for two family businesses, both live
 - [EduVision](https://github.com/Mubarakjk/eduvision-learning-dashboard) and [Task Tracker](https://github.com/Mubarakjk/task-tracker-dashboard): my first JavaScript projects, built without any libraries
@@ -34,7 +35,7 @@ Finds the fastest route between any two tube stations from the terminal. Dijkstr
 | --- | --- |
 | **Languages** | TypeScript, JavaScript, Python, SQL, HTML, CSS |
 | **Frontend** | React, Next.js, React Native, Expo, Tailwind CSS |
-| **Backend and data** | Supabase, PostgreSQL, Row Level Security, REST APIs |
+| **Backend and data** | Flask, Supabase, PostgreSQL, Row Level Security, REST APIs |
 | **Testing and tooling** | Vitest, pytest, Node test runner, ESLint, Ruff, GitHub Actions, Git |
 
 ## How I work
