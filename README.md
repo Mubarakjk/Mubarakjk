@@ -14,6 +14,10 @@ A mobile app with long-term memory, goal tracking, journaling and daily check-in
 A live website and admin system for a London swimming school, with enquiries, scheduling and bookings. Handles race conditions on the last place in a lesson, rate limiting and bot protection. [Live site](https://mymz-swimming-school.vercel.app)
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
+### [EddyAI](https://github.com/Mubarakjk/eddy-ai) · AI student support plans
+Staff describe a student's needs and the problem they face, and EddyAI drafts a structured support plan using the PCAR framework: Problem, Cause, Action, Result. Secure login, saved reports, an admin dashboard and schema-validated AI output.
+`Python` `Flask` `SQLite` `Claude API`
+
 ### [A11y Lens](https://github.com/Mubarakjk/a11y-lens) · Accessibility checker
 Paste any HTML and get a plain-English report against 16 WCAG 2.2 rules: what is wrong, who it affects and how to fix it. A tested rule engine kept separate from the React interface. [Try it](https://mubarakjk.github.io/a11y-lens/)
 `TypeScript` `React` `Vitest` `GitHub Actions`
@@ -24,7 +28,6 @@ Finds the fastest route between any two tube stations from the terminal. Dijkstr
 
 ## More work
 
-- [EddyAI](https://github.com/Mubarakjk/eddy-ai-case-study): an AI-powered student support app I built on my own at Pilot Generative AI (December 2025 to July 2026). A Flask app that generates structured support plans using the PCAR framework (Problem, Cause, Action, Result), with secure login and an admin dashboard
 - [Ramadan London 2026](https://github.com/Mubarakjk/ramadan-london-2026): prayer times for 17 London mosques, with Suhoor and Iftar countdowns. [Live site](https://radiant-frangollo-4194fd.netlify.app)
 - [JIMM Solutions](https://github.com/Mubarakjk/jimm-solutions-website) and [Mymz World Child Care](https://github.com/Mubarakjk/mymz-world-childcare-website): websites I helped build for two family businesses, both live
 - [EduVision](https://github.com/Mubarakjk/eduvision-learning-dashboard) and [Task Tracker](https://github.com/Mubarakjk/task-tracker-dashboard): my first JavaScript projects, built without any libraries
