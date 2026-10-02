@@ -30,16 +30,6 @@ Staff describe a student's needs and the problem they face, and EddyAI drafts a 
 A CV builder with recruiter-style scoring, CV tailoring, interview practice and a job tracker, with free and Premium plans. The server verifies every request's login token, enforces usage limits and handles Stripe subscriptions.
 `Node.js` `Express` `OpenAI` `Stripe` `Supabase`
 
-## Tools and algorithms
-
-### [A11y Lens](https://github.com/Mubarakjk/a11y-lens) · Accessibility checker
-Paste any HTML and get a plain-English report against 16 WCAG 2.2 rules: what is wrong, who it affects and how to fix it. A tested rule engine kept separate from the React interface. [Try it](https://mubarakjk.github.io/a11y-lens/)
-`TypeScript` `React` `Vitest` `GitHub Actions`
-
-### [tube-router](https://github.com/Mubarakjk/tube-router) · London Underground route planner
-Finds the fastest route between any two tube stations from the terminal. Dijkstra's algorithm over 338 stations built from TfL open data, with a search that accounts for the time it takes to change lines.
-`Python` `Graph algorithms` `pytest`
-
 ## More work
 
 - [Health Inequality Dashboard](https://github.com/Mubarakjk/health-inequality-dashboard): charts showing the life expectancy, education and health gaps in Medway and Kent, with every figure sourced. [Live site](https://mubarakjk.github.io/health-inequality-dashboard/)
