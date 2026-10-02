@@ -18,6 +18,10 @@ A live website and admin system for a London swimming school, with enquiries, sc
 Staff describe a student's needs and the problem they face, and EddyAI drafts a structured support plan using the PCAR framework: Problem, Cause, Action, Result. Secure login, saved reports, an admin dashboard and schema-validated AI output.
 `Python` `Flask` `SQLite` `Claude API`
 
+### [JobReady](https://github.com/Mubarakjk/jobready) · AI career platform
+A CV builder with recruiter-style scoring, CV tailoring, interview practice and a job tracker, with free and Premium plans. The server verifies every request's login token, enforces usage limits and handles Stripe subscriptions.
+`Node.js` `Express` `OpenAI` `Stripe` `Supabase`
+
 ### [A11y Lens](https://github.com/Mubarakjk/a11y-lens) · Accessibility checker
 Paste any HTML and get a plain-English report against 16 WCAG 2.2 rules: what is wrong, who it affects and how to fix it. A tested rule engine kept separate from the React interface. [Try it](https://mubarakjk.github.io/a11y-lens/)
 `TypeScript` `React` `Vitest` `GitHub Actions`
@@ -28,6 +32,7 @@ Finds the fastest route between any two tube stations from the terminal. Dijkstr
 
 ## More work
 
+- [Health Inequality Dashboard](https://github.com/Mubarakjk/health-inequality-dashboard): charts showing the life expectancy, education and health gaps in Medway and Kent, with every figure sourced. [Live site](https://mubarakjk.github.io/health-inequality-dashboard/)
 - [Ramadan London 2026](https://github.com/Mubarakjk/ramadan-london-2026): prayer times for 17 London mosques, with Suhoor and Iftar countdowns. [Live site](https://radiant-frangollo-4194fd.netlify.app)
 - [JIMM Solutions](https://github.com/Mubarakjk/jimm-solutions-website) and [Mymz World Child Care](https://github.com/Mubarakjk/mymz-world-childcare-website): websites I helped build for two family businesses, both live
 - [EduVision](https://github.com/Mubarakjk/eduvision-learning-dashboard) and [Task Tracker](https://github.com/Mubarakjk/task-tracker-dashboard): my first JavaScript projects, built without any libraries
@@ -38,7 +43,7 @@ Finds the fastest route between any two tube stations from the terminal. Dijkstr
 | --- | --- |
 | **Languages** | TypeScript, JavaScript, Python, SQL, HTML, CSS |
 | **Frontend** | React, Next.js, React Native, Expo, Tailwind CSS |
-| **Backend and data** | Flask, Supabase, PostgreSQL, Row Level Security, REST APIs |
+| **Backend and data** | Node.js, Express, Flask, Supabase, PostgreSQL, Row Level Security, REST APIs |
 | **Testing and tooling** | Vitest, pytest, Node test runner, ESLint, Ruff, GitHub Actions, Git |
 
 ## How I work
